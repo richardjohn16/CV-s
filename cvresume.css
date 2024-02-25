@@ -1,0 +1,65 @@
+.header {
+    text-align: center;
+}
+.subheader{
+    font-size: 20px;
+}
+.info{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.abtme{
+    text-align: left;
+    font-family: serif;
+    font-style: italic;
+}
+body {
+    background-color: #333;
+    color: white;
+}
+.abtmeb{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.exp{
+    text-align: left;
+    font-style: italic;
+    padding-top: 10px;
+}
+.wexp{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.skqu{
+    text-align: left;
+    font-family: serif;
+    font-style: italic;
+}
+.SKQU{
+    text-align: center;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.relproj{
+    text-align: left;
+    font-family: serif;
+    font-style: italic;
+}
+.relvproj{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.edu{
+    text-align: left;
+    font-family: serif;
+    font-style: italic;
+}
+.educ{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+}
